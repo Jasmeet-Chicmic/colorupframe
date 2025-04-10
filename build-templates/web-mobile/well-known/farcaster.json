@@ -1,0 +1,18 @@
+{
+    "accountAssociation": {
+      "header": "eyJmaWQiOjEwMTYwNzAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhkMGY0NkM0MTBBY0QyQ2I2ZEIwMTE5OTQ0NTgzYTQwNDg0MkRmMUM1In0",
+      "payload": "eyJkb21haW4iOiJjb2xvcnVwZnJhbWUubmV0bGlmeS5hcHAifQ",
+      "signature": "MHg1ZThkMDYzNmE5NzU0YWVhZmE1OWZkNWM3ZDE1YzQ2YWVlNTcxODk0ZGMyMmRjNjZkYTRiYWRiNjg1MTQyYWNmNDMyMGRlYWQ1ZWMzMDFjNGIwNWNhZjNhYzFkM2QzZjJhY2M1OTE1ODFmYjE0MzE5MjgzYTA5NTdhMDUyZTU1MDFj"
+    },
+    "frame": {
+      "name": "Color Up",
+      "version": "1",
+      "iconUrl": "https://colorupframe.netlify.app/images/logo.png",
+      "homeUrl": "https://colorupframe.netlify.app",
+      "imageUrl": "https://colorupframe.netlify.app/images/logo.png",
+      "buttonTitle": "Color Up",
+      "splashImageUrl": "https://colorupframe.netlify.app/images/logo.png",
+      "splashBackgroundColor": "#FFFFFF",
+      "webhookUrl": "https://colorupframe.netlify.app/api/webhook"
+    }
+  }
